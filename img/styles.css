@@ -1,0 +1,31 @@
+.body{
+    margin: 0;
+    padding: 0;
+   max-width: 100%;
+
+}
+
+img{
+    width: 40%;
+    height: 80%;
+   display: block;
+   margin: auto;
+   margin: top 20px         
+}  
+
+p{
+    text-align: center;
+}
+
+.small image{
+    width: 50px;
+}
+
+.centered{
+   position: absolute;
+    color: white;
+    top: 12px;
+    left: 380px;
+    text-align: center;
+}
+
